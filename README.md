@@ -3,7 +3,7 @@ Este é um Sistema de Gestão de Estoque, desenvolvido com PHP, JQuery, HTML5, C
 
 O Sistema contém os seguintes recursos :
 
-Gestão de Produtos -> Categorias, Produtos, Gestão de Pessoas -> Clientes, Fornecedores, Gestão de Vendas -> Comprovante & Relatório, Gestão de Administradores.
+Gestão de Produtos -> Categorias, Produtos || Gestão de Pessoas -> Clientes, Fornecedores || Gestão de Vendas -> Comprovante & Relatório || Gestão de Administradores.
 .
 Você pode fazer a DEMO do Sistema acessando o link abaixo:
 
